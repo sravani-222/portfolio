@@ -418,3 +418,29 @@ section{
     display:inline-block;
     margin-top:20px;
     padding:10px 25px;
+}
+
+
+/* Certificate links */
+
+.certificate-link {
+
+    text-decoration: none;
+    color: inherit;
+
+}
+
+
+.certificate-link .card {
+
+    cursor: pointer;
+
+}
+
+
+.certificate-link .card:hover {
+
+    transform: translateY(-10px);
+    box-shadow: 0 0 30px cyan;
+
+}
