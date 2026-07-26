@@ -6,14 +6,20 @@
 
 ![Home Page](images/homepage.png)
 
+### About Page
+
+![About Page](images/about.png)
+
 ### Projects
 
-![Projects](images/projects.png)
-## 📸 Screenshots
+![Projects](images/project.png)
+### 📸 Screenshots
 
 ### skils and contacts
 
-![skills and contacts](images/skills.png)
+![skills](images/skills.png)
+
+![contacts](images/contact.png)
 
 ### certificates
 
@@ -21,9 +27,10 @@
 
 ## 📌 About the Project
 
-This is my personal portfolio website built using HTML, CSS, and JavaScript. It showcases my profile, technical skills, projects, certifications, resume, and contact information in a clean and responsive design.
+This is a responsive and beginner-friendly personal portfolio website built using **HTML, CSS, and JavaScript**. It showcases my profile, technical skills, projects, certifications, downloadable resume, and contact information through a clean, modern, and user-friendly interface.
 
-The website includes a Dark theme, smooth scrolling, and scroll reveal animations to enhance the user experience.
+The website features a futuristic dark theme, smooth scrolling, and scroll reveal animations to provide an engaging user experience. It reflects my learning journey and demonstrates my frontend web development skills while serving as a professional platform to showcase my work and achievements.
+
 
 ## 📂 Project Structure
 
