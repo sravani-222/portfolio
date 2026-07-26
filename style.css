@@ -278,7 +278,7 @@ footer {
     /* Navigation becomes stacked instead of hidden */
     nav {
         display: flex;
-        flex-direction: column;
+        flex-direction: row;
         gap: 15px;
         background: rgba(20,25,35,0.95);
         position: absolute;
@@ -315,7 +315,7 @@ footer {
 
     /* Buttons stack neatly */
     .buttons {
-        flex-direction: column;
+        flex-direction: row;
         gap: 12px;
     }
 }
