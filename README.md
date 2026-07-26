@@ -29,18 +29,28 @@ The website includes a Dark theme, smooth scrolling, and scroll reveal animation
 
 ```text
 Portfolio/
-│── index.html
-│── style.css
-│── script.js
-│── resume.pdf
-│── images/
-│   ├── homepage.png
-│   ├── about.png
-│   ├── projects.png
-│   ├── certificates.png
-│   ├── skills.png
-│   └── contact.png
-└── README.md
+│
+├── index.html
+├── style.css
+├── script.js
+├── resume.pdf
+├── README.md
+│
+├── certificates/
+│   ├── machine-learning.pdf
+│   ├── agile-software-development.pdf
+│   ├── full-stack-web-development.pdf
+│   ├── cyber-security.pdf
+│   ├── python.pdf
+│   └── data-science-machine-learning.pdf
+│
+└── images/
+    ├── home.png
+    ├── about.png
+    ├── projects.png
+    ├── certifications.png
+    ├── skills.png
+    └── contact.png
 ```
 
 ## ✨ Features 
@@ -80,6 +90,8 @@ Open index.html in your browser or use the Live Server extension in Visual Studi
 The repository includes my latest resume as resume.pdf.
 
 Visitors can download it directly from the portfolio website using the Download Resume button.
+## Certifications
+ Contains images of certifaces
 
 ## 🔮 Future Improvements
 - Improve mobile navigation
