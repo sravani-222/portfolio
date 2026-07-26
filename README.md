@@ -45,7 +45,7 @@ Portfolio/
 │   └── data-science-machine-learning.pdf
 │
 └── images/
-    ├── home.png
+    ├── homepage.png
     ├── about.png
     ├── projects.png
     ├── certifications.png
