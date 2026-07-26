@@ -7,7 +7,6 @@
 }
 
 /* ===== Dark Professional Theme ===== */
-
 body {
     min-height: 100vh;
     background: linear-gradient(135deg, #0d1b2a, #1b263b, #000000);
@@ -320,4 +319,3 @@ footer {
         gap: 12px;
     }
 }
-
