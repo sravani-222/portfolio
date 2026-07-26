@@ -92,7 +92,18 @@ The repository includes my latest resume as resume.pdf.
 Visitors can download it directly from the portfolio website using the Download Resume button.
 ## Certifications
  Contains images of certifaces
-
+ ```text
+Portfolio/
+│
+├── certificates/
+│   ├── machine-learning.pdf
+│   ├── agile-software-development.pdf
+│   ├── nptel-privacy-security.pdf
+│   ├── full-stack-web-development.pdf
+│   ├── cyber-security.pdf
+│   ├── python.pdf
+│   └── data-science-machine-learning.pdf
+```
 ## 🔮 Future Improvements
 - Improve mobile navigation
 - Add more animations
